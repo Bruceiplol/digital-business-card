@@ -1,6 +1,6 @@
 # Scrimba Business Card
 
-![Scrimba Business Card Screenshot](/screenshot/screenshot.png)
+![Scrimba Business Card Screenshot](/screenshot/screenshot.PNG)
 
 This project is a digital business card created using React as my first React project on Scrimba. The business card is a simple yet modern way to showcase my contact information and skills.
 
