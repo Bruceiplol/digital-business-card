@@ -10,7 +10,6 @@ This project is a digital business card created using React as my first React pr
 - HTML: The structure of the web page.
 - CSS: The styling and layout of the business card.
 - Git: Version control to track changes.
-- GitHub: Hosting the project.
 
 ## Getting Started
 
